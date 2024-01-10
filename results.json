@@ -1,0 +1,834 @@
+[
+  {
+    "numberOfOrders": 40,
+    "pickingCapacity": 45,
+    "numberOfPickers": 5,
+    "pickingTime": 115.98286666666667,
+    "pickers": [
+      { "id": 2, "workload": 61.41666666666667 },
+      { "id": 1, "workload": 63.875 },
+      { "id": 4, "workload": 70.29166666666667 },
+      { "id": 3, "workload": 72.33333333333333 },
+      { "id": 0, "workload": 73.58333333333333 }
+    ]
+  },
+  {
+    "numberOfOrders": 40,
+    "pickingCapacity": 60,
+    "numberOfPickers": 5,
+    "pickingTime": 150.96011666666666,
+    "pickers": [
+      { "id": 3, "workload": 59.91666666666666 },
+      { "id": 4, "workload": 50.75 },
+      { "id": 0, "workload": 49.208333333333336 },
+      { "id": 1, "workload": 51.083333333333336 },
+      { "id": 2, "workload": 50.79166666666667 }
+    ]
+  },
+  {
+    "numberOfOrders": 40,
+    "pickingCapacity": 75,
+    "numberOfPickers": 5,
+    "pickingTime": 208.73238333333333,
+    "pickers": [
+      { "id": 2, "workload": 39 },
+      { "id": 4, "workload": 39.95833333333333 },
+      { "id": 3, "workload": 53.125 },
+      { "id": 0, "workload": 47.875 },
+      { "id": 1, "workload": 58 }
+    ]
+  },
+  {
+    "numberOfOrders": 60,
+    "pickingCapacity": 30,
+    "numberOfPickers": 5,
+    "pickingTime": 176.5778,
+    "pickers": [
+      { "id": 2, "workload": 95.75 },
+      { "id": 0, "workload": 112.5 },
+      { "id": 3, "workload": 124.45833333333334 },
+      { "id": 4, "workload": 132.70833333333334 },
+      { "id": 1, "workload": 117.00000000000001 }
+    ]
+  },
+  {
+    "numberOfOrders": 60,
+    "pickingCapacity": 45,
+    "numberOfPickers": 5,
+    "pickingTime": 152.05665,
+    "pickers": [
+      { "id": 4, "workload": 97.79166666666667 },
+      { "id": 0, "workload": 103.29166666666666 },
+      { "id": 1, "workload": 98.66666666666667 },
+      { "id": 3, "workload": 110.875 },
+      { "id": 2, "workload": 107.45833333333333 }
+    ]
+  },
+  {
+    "numberOfOrders": 60,
+    "pickingCapacity": 60,
+    "numberOfPickers": 5,
+    "pickingTime": 147.7471,
+    "pickers": [
+      { "id": 0, "workload": 68.41666666666666 },
+      { "id": 3, "workload": 68.875 },
+      { "id": 2, "workload": 67.45833333333334 },
+      { "id": 1, "workload": 85.875 },
+      { "id": 4, "workload": 96.83333333333334 }
+    ]
+  },
+  {
+    "numberOfOrders": 60,
+    "pickingCapacity": 75,
+    "numberOfPickers": 5,
+    "pickingTime": 154.40205,
+    "pickers": [
+      { "id": 4, "workload": 64.45833333333334 },
+      { "id": 1, "workload": 54.16666666666667 },
+      { "id": 0, "workload": 55.04166666666667 },
+      { "id": 2, "workload": 55.125 },
+      { "id": 3, "workload": 83.54166666666667 }
+    ]
+  },
+  {
+    "numberOfOrders": 40,
+    "pickingCapacity": 30,
+    "numberOfPickers": 5,
+    "pickingTime": 198.05938333333333,
+    "pickers": [
+      { "id": 3, "workload": 74.625 },
+      { "id": 1, "workload": 75.66666666666667 },
+      { "id": 0, "workload": 83.79166666666667 },
+      { "id": 4, "workload": 79.29166666666667 },
+      { "id": 2, "workload": 79.70833333333334 }
+    ]
+  },
+  {
+    "numberOfOrders": 40,
+    "pickingCapacity": 45,
+    "numberOfPickers": 5,
+    "pickingTime": 200.88048333333333,
+    "pickers": [
+      { "id": 3, "workload": 59.375 },
+      { "id": 0, "workload": 57.25 },
+      { "id": 4, "workload": 61.91666666666667 },
+      { "id": 2, "workload": 62.708333333333336 },
+      { "id": 1, "workload": 61.16666666666667 }
+    ]
+  },
+  {
+    "numberOfOrders": 40,
+    "pickingCapacity": 60,
+    "numberOfPickers": 5,
+    "pickingTime": 160.66606666666667,
+    "pickers": [
+      { "id": 4, "workload": 64.33333333333334 },
+      { "id": 0, "workload": 50.208333333333336 },
+      { "id": 3, "workload": 67.33333333333334 },
+      { "id": 1, "workload": 50.04166666666667 },
+      { "id": 2, "workload": 49.08333333333333 }
+    ]
+  },
+  {
+    "numberOfOrders": 40,
+    "pickingCapacity": 75,
+    "numberOfPickers": 5,
+    "pickingTime": 131.33241666666666,
+    "pickers": [
+      { "id": 1, "workload": 28.708333333333336 },
+      { "id": 4, "workload": 34.541666666666664 },
+      { "id": 3, "workload": 55.708333333333336 },
+      { "id": 0, "workload": 56.29166666666667 },
+      { "id": 2, "workload": 56.583333333333336 }
+    ]
+  },
+  {
+    "numberOfOrders": 60,
+    "pickingCapacity": 30,
+    "numberOfPickers": 5,
+    "pickingTime": 153.57365,
+    "pickers": [
+      { "id": 1, "workload": 116.66666666666669 },
+      { "id": 4, "workload": 121.66666666666666 },
+      { "id": 2, "workload": 129.45833333333334 },
+      { "id": 0, "workload": 131.08333333333334 },
+      { "id": 3, "workload": 129.12499999999997 }
+    ]
+  },
+  {
+    "numberOfOrders": 60,
+    "pickingCapacity": 45,
+    "numberOfPickers": 5,
+    "pickingTime": 138.0586,
+    "pickers": [
+      { "id": 1, "workload": 85.125 },
+      { "id": 3, "workload": 84.875 },
+      { "id": 4, "workload": 97.33333333333334 },
+      { "id": 2, "workload": 102.41666666666667 },
+      { "id": 0, "workload": 97.91666666666667 }
+    ]
+  },
+  {
+    "numberOfOrders": 60,
+    "pickingCapacity": 60,
+    "numberOfPickers": 5,
+    "pickingTime": 134.23786666666666,
+    "pickers": [
+      { "id": 2, "workload": 73.08333333333334 },
+      { "id": 4, "workload": 86.08333333333333 },
+      { "id": 0, "workload": 76.625 },
+      { "id": 3, "workload": 93.66666666666667 },
+      { "id": 1, "workload": 99.95833333333334 }
+    ]
+  },
+  {
+    "numberOfOrders": 60,
+    "pickingCapacity": 75,
+    "numberOfPickers": 5,
+    "pickingTime": 135.8509,
+    "pickers": [
+      { "id": 3, "workload": 51.75 },
+      { "id": 2, "workload": 54.833333333333336 },
+      { "id": 4, "workload": 71 },
+      { "id": 1, "workload": 71.58333333333334 },
+      { "id": 0, "workload": 71.625 }
+    ]
+  },
+  {
+    "numberOfOrders": 80,
+    "pickingCapacity": 30,
+    "numberOfPickers": 5,
+    "pickingTime": 161.74513333333334,
+    "pickers": [
+      { "id": 2, "workload": 140.75 },
+      { "id": 0, "workload": 147.08333333333334 },
+      { "id": 4, "workload": 147.16666666666669 },
+      { "id": 3, "workload": 147.70833333333334 },
+      { "id": 1, "workload": 151.16666666666666 }
+    ]
+  },
+  {
+    "numberOfOrders": 80,
+    "pickingCapacity": 45,
+    "numberOfPickers": 5,
+    "pickingTime": 153.6203,
+    "pickers": [
+      { "id": 3, "workload": 101.58333333333334 },
+      { "id": 0, "workload": 105.04166666666667 },
+      { "id": 4, "workload": 106.79166666666666 },
+      { "id": 2, "workload": 114.79166666666666 },
+      { "id": 1, "workload": 120.54166666666666 }
+    ]
+  },
+  {
+    "numberOfOrders": 80,
+    "pickingCapacity": 60,
+    "numberOfPickers": 5,
+    "pickingTime": 139.35061666666667,
+    "pickers": [
+      { "id": 0, "workload": 96.91666666666667 },
+      { "id": 1, "workload": 98.91666666666669 },
+      { "id": 4, "workload": 100.5 },
+      { "id": 3, "workload": 98.58333333333333 },
+      { "id": 2, "workload": 118.125 }
+    ]
+  },
+  {
+    "numberOfOrders": 80,
+    "pickingCapacity": 75,
+    "numberOfPickers": 5,
+    "pickingTime": 143.75275,
+    "pickers": [
+      { "id": 2, "workload": 81.375 },
+      { "id": 0, "workload": 91.33333333333334 },
+      { "id": 1, "workload": 99 },
+      { "id": 3, "workload": 101.83333333333331 },
+      { "id": 4, "workload": 103.24999999999999 }
+    ]
+  },
+  {
+    "numberOfOrders": 100,
+    "pickingCapacity": 30,
+    "numberOfPickers": 5,
+    "pickingTime": 210.3298,
+    "pickers": [
+      { "id": 0, "workload": 177.00000000000003 },
+      { "id": 4, "workload": 176.625 },
+      { "id": 1, "workload": 178 },
+      { "id": 3, "workload": 189.79166666666666 },
+      { "id": 2, "workload": 194.79166666666669 }
+    ]
+  },
+  {
+    "numberOfOrders": 100,
+    "pickingCapacity": 45,
+    "numberOfPickers": 5,
+    "pickingTime": 161.6311,
+    "pickers": [
+      { "id": 4, "workload": 127.50000000000001 },
+      { "id": 0, "workload": 136.08333333333334 },
+      { "id": 1, "workload": 136.79166666666669 },
+      { "id": 2, "workload": 143.25 },
+      { "id": 3, "workload": 147.25 }
+    ]
+  },
+  {
+    "numberOfOrders": 100,
+    "pickingCapacity": 60,
+    "numberOfPickers": 5,
+    "pickingTime": 165.27811666666668,
+    "pickers": [
+      { "id": 4, "workload": 121.66666666666666 },
+      { "id": 2, "workload": 128.95833333333334 },
+      { "id": 0, "workload": 134.375 },
+      { "id": 3, "workload": 134.83333333333334 },
+      { "id": 1, "workload": 146.20833333333334 }
+    ]
+  },
+  {
+    "numberOfOrders": 100,
+    "pickingCapacity": 75,
+    "numberOfPickers": 5,
+    "pickingTime": 162.1028,
+    "pickers": [
+      { "id": 4, "workload": 100.74999999999999 },
+      { "id": 2, "workload": 109.625 },
+      { "id": 3, "workload": 114.45833333333333 },
+      { "id": 0, "workload": 117.5 },
+      { "id": 1, "workload": 132.08333333333334 }
+    ]
+  },
+  {
+    "numberOfOrders": 80,
+    "pickingCapacity": 30,
+    "numberOfPickers": 5,
+    "pickingTime": 173.55501666666666,
+    "pickers": [
+      { "id": 1, "workload": 148.00000000000003 },
+      { "id": 2, "workload": 151.08333333333334 },
+      { "id": 4, "workload": 158.625 },
+      { "id": 0, "workload": 159.08333333333334 },
+      { "id": 3, "workload": 162.5 }
+    ]
+  },
+  {
+    "numberOfOrders": 80,
+    "pickingCapacity": 45,
+    "numberOfPickers": 5,
+    "pickingTime": 154.77971666666667,
+    "pickers": [
+      { "id": 4, "workload": 119.5 },
+      { "id": 0, "workload": 123.29166666666667 },
+      { "id": 3, "workload": 124.125 },
+      { "id": 1, "workload": 135 },
+      { "id": 2, "workload": 137.91666666666666 }
+    ]
+  },
+  {
+    "numberOfOrders": 80,
+    "pickingCapacity": 60,
+    "numberOfPickers": 5,
+    "pickingTime": 145.11283333333333,
+    "pickers": [
+      { "id": 3, "workload": 98.58333333333334 },
+      { "id": 2, "workload": 109.95833333333333 },
+      { "id": 0, "workload": 107.54166666666669 },
+      { "id": 4, "workload": 113.20833333333333 },
+      { "id": 1, "workload": 116.66666666666667 }
+    ]
+  },
+  {
+    "numberOfOrders": 80,
+    "pickingCapacity": 75,
+    "numberOfPickers": 5,
+    "pickingTime": 137.35768333333334,
+    "pickers": [
+      { "id": 1, "workload": 80.41666666666666 },
+      { "id": 4, "workload": 82.16666666666667 },
+      { "id": 0, "workload": 90.33333333333334 },
+      { "id": 2, "workload": 106.58333333333334 },
+      { "id": 3, "workload": 107.62500000000001 }
+    ]
+  },
+  {
+    "numberOfOrders": 100,
+    "pickingCapacity": 30,
+    "numberOfPickers": 5,
+    "pickingTime": 185.15128333333334,
+    "pickers": [
+      { "id": 3, "workload": 159 },
+      { "id": 1, "workload": 170.20833333333334 },
+      { "id": 0, "workload": 171.375 },
+      { "id": 4, "workload": 173.95833333333331 },
+      { "id": 2, "workload": 172.79166666666666 }
+    ]
+  },
+  {
+    "numberOfOrders": 100,
+    "pickingCapacity": 45,
+    "numberOfPickers": 5,
+    "pickingTime": 153.28158333333334,
+    "pickers": [
+      { "id": 0, "workload": 124.41666666666667 },
+      { "id": 4, "workload": 125 },
+      { "id": 2, "workload": 134.29166666666666 },
+      { "id": 1, "workload": 134.54166666666666 },
+      { "id": 3, "workload": 140.70833333333331 }
+    ]
+  },
+  {
+    "numberOfOrders": 100,
+    "pickingCapacity": 60,
+    "numberOfPickers": 5,
+    "pickingTime": 152.59038333333334,
+    "pickers": [
+      { "id": 1, "workload": 112.45833333333334 },
+      { "id": 0, "workload": 118.20833333333331 },
+      { "id": 3, "workload": 119.75 },
+      { "id": 2, "workload": 118.66666666666667 },
+      { "id": 4, "workload": 126.45833333333334 }
+    ]
+  },
+  {
+    "numberOfOrders": 100,
+    "pickingCapacity": 75,
+    "numberOfPickers": 5,
+    "pickingTime": 164.91581666666667,
+    "pickers": [
+      { "id": 0, "workload": 111.87500000000001 },
+      { "id": 4, "workload": 118.16666666666667 },
+      { "id": 1, "workload": 115.50000000000001 },
+      { "id": 2, "workload": 116.41666666666667 },
+      { "id": 3, "workload": 128.08333333333331 }
+    ]
+  },
+  {
+    "numberOfOrders": 40,
+    "pickingCapacity": 30,
+    "numberOfPickers": 5,
+    "pickingTime": 142.77038333333334,
+    "pickers": [
+      { "id": 1, "workload": 66.33333333333333 },
+      { "id": 3, "workload": 75.04166666666667 },
+      { "id": 2, "workload": 81.41666666666666 },
+      { "id": 4, "workload": 85.12500000000001 },
+      { "id": 0, "workload": 79.45833333333334 }
+    ]
+  },
+  {
+    "numberOfOrders": 40,
+    "pickingCapacity": 45,
+    "numberOfPickers": 5,
+    "pickingTime": 115.98286666666667,
+    "pickers": [
+      { "id": 2, "workload": 61.41666666666667 },
+      { "id": 1, "workload": 63.875 },
+      { "id": 4, "workload": 70.29166666666667 },
+      { "id": 3, "workload": 72.33333333333333 },
+      { "id": 0, "workload": 73.58333333333333 }
+    ]
+  },
+  {
+    "numberOfOrders": 40,
+    "pickingCapacity": 60,
+    "numberOfPickers": 5,
+    "pickingTime": 150.96011666666666,
+    "pickers": [
+      { "id": 3, "workload": 59.91666666666666 },
+      { "id": 4, "workload": 50.75 },
+      { "id": 0, "workload": 49.208333333333336 },
+      { "id": 1, "workload": 51.083333333333336 },
+      { "id": 2, "workload": 50.79166666666667 }
+    ]
+  },
+  {
+    "numberOfOrders": 40,
+    "pickingCapacity": 75,
+    "numberOfPickers": 5,
+    "pickingTime": 208.73238333333333,
+    "pickers": [
+      { "id": 2, "workload": 39 },
+      { "id": 4, "workload": 39.95833333333333 },
+      { "id": 3, "workload": 53.125 },
+      { "id": 0, "workload": 47.875 },
+      { "id": 1, "workload": 58 }
+    ]
+  },
+  {
+    "numberOfOrders": 60,
+    "pickingCapacity": 30,
+    "numberOfPickers": 5,
+    "pickingTime": 176.5778,
+    "pickers": [
+      { "id": 2, "workload": 95.75 },
+      { "id": 0, "workload": 112.5 },
+      { "id": 3, "workload": 124.45833333333334 },
+      { "id": 4, "workload": 132.70833333333334 },
+      { "id": 1, "workload": 117.00000000000001 }
+    ]
+  },
+  {
+    "numberOfOrders": 60,
+    "pickingCapacity": 45,
+    "numberOfPickers": 5,
+    "pickingTime": 152.05665,
+    "pickers": [
+      { "id": 4, "workload": 97.79166666666667 },
+      { "id": 0, "workload": 103.29166666666666 },
+      { "id": 1, "workload": 98.66666666666667 },
+      { "id": 3, "workload": 110.875 },
+      { "id": 2, "workload": 107.45833333333333 }
+    ]
+  },
+  {
+    "numberOfOrders": 60,
+    "pickingCapacity": 60,
+    "numberOfPickers": 5,
+    "pickingTime": 147.7471,
+    "pickers": [
+      { "id": 0, "workload": 68.41666666666666 },
+      { "id": 3, "workload": 68.875 },
+      { "id": 2, "workload": 67.45833333333334 },
+      { "id": 1, "workload": 85.875 },
+      { "id": 4, "workload": 96.83333333333334 }
+    ]
+  },
+  {
+    "numberOfOrders": 60,
+    "pickingCapacity": 75,
+    "numberOfPickers": 5,
+    "pickingTime": 154.40205,
+    "pickers": [
+      { "id": 4, "workload": 64.45833333333334 },
+      { "id": 1, "workload": 54.16666666666667 },
+      { "id": 0, "workload": 55.04166666666667 },
+      { "id": 2, "workload": 55.125 },
+      { "id": 3, "workload": 83.54166666666667 }
+    ]
+  },
+  {
+    "numberOfOrders": 40,
+    "pickingCapacity": 30,
+    "numberOfPickers": 5,
+    "pickingTime": 198.05938333333333,
+    "pickers": [
+      { "id": 3, "workload": 74.625 },
+      { "id": 1, "workload": 75.66666666666667 },
+      { "id": 0, "workload": 83.79166666666667 },
+      { "id": 4, "workload": 79.29166666666667 },
+      { "id": 2, "workload": 79.70833333333334 }
+    ]
+  },
+  {
+    "numberOfOrders": 40,
+    "pickingCapacity": 45,
+    "numberOfPickers": 5,
+    "pickingTime": 200.88048333333333,
+    "pickers": [
+      { "id": 3, "workload": 59.375 },
+      { "id": 0, "workload": 57.25 },
+      { "id": 4, "workload": 61.91666666666667 },
+      { "id": 2, "workload": 62.708333333333336 },
+      { "id": 1, "workload": 61.16666666666667 }
+    ]
+  },
+  {
+    "numberOfOrders": 40,
+    "pickingCapacity": 60,
+    "numberOfPickers": 5,
+    "pickingTime": 160.66606666666667,
+    "pickers": [
+      { "id": 4, "workload": 64.33333333333334 },
+      { "id": 0, "workload": 50.208333333333336 },
+      { "id": 3, "workload": 67.33333333333334 },
+      { "id": 1, "workload": 50.04166666666667 },
+      { "id": 2, "workload": 49.08333333333333 }
+    ]
+  },
+  {
+    "numberOfOrders": 40,
+    "pickingCapacity": 75,
+    "numberOfPickers": 5,
+    "pickingTime": 131.33241666666666,
+    "pickers": [
+      { "id": 1, "workload": 28.708333333333336 },
+      { "id": 4, "workload": 34.541666666666664 },
+      { "id": 3, "workload": 55.708333333333336 },
+      { "id": 0, "workload": 56.29166666666667 },
+      { "id": 2, "workload": 56.583333333333336 }
+    ]
+  },
+  {
+    "numberOfOrders": 60,
+    "pickingCapacity": 30,
+    "numberOfPickers": 5,
+    "pickingTime": 153.57365,
+    "pickers": [
+      { "id": 1, "workload": 116.66666666666669 },
+      { "id": 4, "workload": 121.66666666666666 },
+      { "id": 2, "workload": 129.45833333333334 },
+      { "id": 0, "workload": 131.08333333333334 },
+      { "id": 3, "workload": 129.12499999999997 }
+    ]
+  },
+  {
+    "numberOfOrders": 60,
+    "pickingCapacity": 45,
+    "numberOfPickers": 5,
+    "pickingTime": 138.0586,
+    "pickers": [
+      { "id": 1, "workload": 85.125 },
+      { "id": 3, "workload": 84.875 },
+      { "id": 4, "workload": 97.33333333333334 },
+      { "id": 2, "workload": 102.41666666666667 },
+      { "id": 0, "workload": 97.91666666666667 }
+    ]
+  },
+  {
+    "numberOfOrders": 60,
+    "pickingCapacity": 60,
+    "numberOfPickers": 5,
+    "pickingTime": 134.23786666666666,
+    "pickers": [
+      { "id": 2, "workload": 73.08333333333334 },
+      { "id": 4, "workload": 86.08333333333333 },
+      { "id": 0, "workload": 76.625 },
+      { "id": 3, "workload": 93.66666666666667 },
+      { "id": 1, "workload": 99.95833333333334 }
+    ]
+  },
+  {
+    "numberOfOrders": 60,
+    "pickingCapacity": 75,
+    "numberOfPickers": 5,
+    "pickingTime": 135.8509,
+    "pickers": [
+      { "id": 3, "workload": 51.75 },
+      { "id": 2, "workload": 54.833333333333336 },
+      { "id": 4, "workload": 71 },
+      { "id": 1, "workload": 71.58333333333334 },
+      { "id": 0, "workload": 71.625 }
+    ]
+  },
+  {
+    "numberOfOrders": 80,
+    "pickingCapacity": 30,
+    "numberOfPickers": 5,
+    "pickingTime": 161.74513333333334,
+    "pickers": [
+      { "id": 2, "workload": 140.75 },
+      { "id": 0, "workload": 147.08333333333334 },
+      { "id": 4, "workload": 147.16666666666669 },
+      { "id": 3, "workload": 147.70833333333334 },
+      { "id": 1, "workload": 151.16666666666666 }
+    ]
+  },
+  {
+    "numberOfOrders": 80,
+    "pickingCapacity": 45,
+    "numberOfPickers": 5,
+    "pickingTime": 153.6203,
+    "pickers": [
+      { "id": 3, "workload": 101.58333333333334 },
+      { "id": 0, "workload": 105.04166666666667 },
+      { "id": 4, "workload": 106.79166666666666 },
+      { "id": 2, "workload": 114.79166666666666 },
+      { "id": 1, "workload": 120.54166666666666 }
+    ]
+  },
+  {
+    "numberOfOrders": 80,
+    "pickingCapacity": 60,
+    "numberOfPickers": 5,
+    "pickingTime": 139.35061666666667,
+    "pickers": [
+      { "id": 0, "workload": 96.91666666666667 },
+      { "id": 1, "workload": 98.91666666666669 },
+      { "id": 4, "workload": 100.5 },
+      { "id": 3, "workload": 98.58333333333333 },
+      { "id": 2, "workload": 118.125 }
+    ]
+  },
+  {
+    "numberOfOrders": 80,
+    "pickingCapacity": 75,
+    "numberOfPickers": 5,
+    "pickingTime": 143.75275,
+    "pickers": [
+      { "id": 2, "workload": 81.375 },
+      { "id": 0, "workload": 91.33333333333334 },
+      { "id": 1, "workload": 99 },
+      { "id": 3, "workload": 101.83333333333331 },
+      { "id": 4, "workload": 103.24999999999999 }
+    ]
+  },
+  {
+    "numberOfOrders": 100,
+    "pickingCapacity": 30,
+    "numberOfPickers": 5,
+    "pickingTime": 210.3298,
+    "pickers": [
+      { "id": 0, "workload": 177.00000000000003 },
+      { "id": 4, "workload": 176.625 },
+      { "id": 1, "workload": 178 },
+      { "id": 3, "workload": 189.79166666666666 },
+      { "id": 2, "workload": 194.79166666666669 }
+    ]
+  },
+  {
+    "numberOfOrders": 100,
+    "pickingCapacity": 45,
+    "numberOfPickers": 5,
+    "pickingTime": 161.6311,
+    "pickers": [
+      { "id": 4, "workload": 127.50000000000001 },
+      { "id": 0, "workload": 136.08333333333334 },
+      { "id": 1, "workload": 136.79166666666669 },
+      { "id": 2, "workload": 143.25 },
+      { "id": 3, "workload": 147.25 }
+    ]
+  },
+  {
+    "numberOfOrders": 100,
+    "pickingCapacity": 60,
+    "numberOfPickers": 5,
+    "pickingTime": 165.27811666666668,
+    "pickers": [
+      { "id": 4, "workload": 121.66666666666666 },
+      { "id": 2, "workload": 128.95833333333334 },
+      { "id": 0, "workload": 134.375 },
+      { "id": 3, "workload": 134.83333333333334 },
+      { "id": 1, "workload": 146.20833333333334 }
+    ]
+  },
+  {
+    "numberOfOrders": 100,
+    "pickingCapacity": 75,
+    "numberOfPickers": 5,
+    "pickingTime": 162.1028,
+    "pickers": [
+      { "id": 4, "workload": 100.74999999999999 },
+      { "id": 2, "workload": 109.625 },
+      { "id": 3, "workload": 114.45833333333333 },
+      { "id": 0, "workload": 117.5 },
+      { "id": 1, "workload": 132.08333333333334 }
+    ]
+  },
+  {
+    "numberOfOrders": 80,
+    "pickingCapacity": 30,
+    "numberOfPickers": 5,
+    "pickingTime": 173.55501666666666,
+    "pickers": [
+      { "id": 1, "workload": 148.00000000000003 },
+      { "id": 2, "workload": 151.08333333333334 },
+      { "id": 4, "workload": 158.625 },
+      { "id": 0, "workload": 159.08333333333334 },
+      { "id": 3, "workload": 162.5 }
+    ]
+  },
+  {
+    "numberOfOrders": 80,
+    "pickingCapacity": 45,
+    "numberOfPickers": 5,
+    "pickingTime": 154.77971666666667,
+    "pickers": [
+      { "id": 4, "workload": 119.5 },
+      { "id": 0, "workload": 123.29166666666667 },
+      { "id": 3, "workload": 124.125 },
+      { "id": 1, "workload": 135 },
+      { "id": 2, "workload": 137.91666666666666 }
+    ]
+  },
+  {
+    "numberOfOrders": 80,
+    "pickingCapacity": 60,
+    "numberOfPickers": 5,
+    "pickingTime": 145.11283333333333,
+    "pickers": [
+      { "id": 3, "workload": 98.58333333333334 },
+      { "id": 2, "workload": 109.95833333333333 },
+      { "id": 0, "workload": 107.54166666666669 },
+      { "id": 4, "workload": 113.20833333333333 },
+      { "id": 1, "workload": 116.66666666666667 }
+    ]
+  },
+  {
+    "numberOfOrders": 80,
+    "pickingCapacity": 75,
+    "numberOfPickers": 5,
+    "pickingTime": 137.35768333333334,
+    "pickers": [
+      { "id": 1, "workload": 80.41666666666666 },
+      { "id": 4, "workload": 82.16666666666667 },
+      { "id": 0, "workload": 90.33333333333334 },
+      { "id": 2, "workload": 106.58333333333334 },
+      { "id": 3, "workload": 107.62500000000001 }
+    ]
+  },
+  {
+    "numberOfOrders": 100,
+    "pickingCapacity": 30,
+    "numberOfPickers": 5,
+    "pickingTime": 185.15128333333334,
+    "pickers": [
+      { "id": 3, "workload": 159 },
+      { "id": 1, "workload": 170.20833333333334 },
+      { "id": 0, "workload": 171.375 },
+      { "id": 4, "workload": 173.95833333333331 },
+      { "id": 2, "workload": 172.79166666666666 }
+    ]
+  },
+  {
+    "numberOfOrders": 100,
+    "pickingCapacity": 45,
+    "numberOfPickers": 5,
+    "pickingTime": 153.28158333333334,
+    "pickers": [
+      { "id": 0, "workload": 124.41666666666667 },
+      { "id": 4, "workload": 125 },
+      { "id": 2, "workload": 134.29166666666666 },
+      { "id": 1, "workload": 134.54166666666666 },
+      { "id": 3, "workload": 140.70833333333331 }
+    ]
+  },
+  {
+    "numberOfOrders": 100,
+    "pickingCapacity": 60,
+    "numberOfPickers": 5,
+    "pickingTime": 152.59038333333334,
+    "pickers": [
+      { "id": 1, "workload": 112.45833333333334 },
+      { "id": 0, "workload": 118.20833333333331 },
+      { "id": 3, "workload": 119.75 },
+      { "id": 2, "workload": 118.66666666666667 },
+      { "id": 4, "workload": 126.45833333333334 }
+    ]
+  },
+  {
+    "numberOfOrders": 100,
+    "pickingCapacity": 75,
+    "numberOfPickers": 5,
+    "pickingTime": 164.91581666666667,
+    "pickers": [
+      { "id": 0, "workload": 111.87500000000001 },
+      { "id": 4, "workload": 118.16666666666667 },
+      { "id": 1, "workload": 115.50000000000001 },
+      { "id": 2, "workload": 116.41666666666667 },
+      { "id": 3, "workload": 128.08333333333331 }
+    ]
+  },
+  {
+    "numberOfOrders": 40,
+    "pickingCapacity": 30,
+    "numberOfPickers": 5,
+    "pickingTime": 142.77038333333334,
+    "pickers": [
+      { "id": 1, "workload": 66.33333333333333 },
+      { "id": 3, "workload": 75.04166666666667 },
+      { "id": 2, "workload": 81.41666666666666 },
+      { "id": 4, "workload": 85.12500000000001 },
+      { "id": 0, "workload": 79.45833333333334 }
+    ]
+  }
+]

@@ -1,0 +1,43 @@
+services:
+  orders:
+    build:
+      context: .
+      dockerfile: ./apps/orders/Dockerfile
+      target: development
+    command: npm run start:dev orders
+    env_file:
+      - ./apps/orders/.env
+    depends_on:
+      - picker
+      - batching
+    volumes:
+      - .:/usr/src/app
+      - /usr/src/app/node_modules
+    ports:
+      - '3000:3000'
+  picker:
+    build:
+      context: .
+      dockerfile: ./apps/picker/Dockerfile
+      target: development
+    command: npm run start:dev picker
+    env_file:
+      - ./apps/picker/.env
+    depends_on:
+      - batching
+    volumes:
+      - .:/usr/src/app
+      - /usr/src/app/node_modules
+  batching:
+    build:
+      context: .
+      dockerfile: ./apps/batching/Dockerfile
+      target: development
+    command: npm run start:dev batching
+    ports:
+      - '3001:3001'
+    env_file:
+      - ./apps/batching/.env
+    volumes:
+      - .:/usr/src/app
+      - /usr/src/app/node_modules
