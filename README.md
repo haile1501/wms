@@ -22,52 +22,41 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
-## Description
-
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
-
 ## Installation
-
+Nodejs: https://nodejs.org/en
+RabbitMQ: https://www.rabbitmq.com
 ```bash
 $ npm install
 ```
 
+## Configuration
+Change heartbeat to 3600 in rabbitmq.conf file. Guide: https://www.rabbitmq.com/configure.html#config-file-formats
+
+Config warehouse parameters in apps/batching/.env file 
+```
+ROWS_NUM=45 // number of rows
+ROW_LENGTH=1 // length of row
+DIS_BETWEEN_AISLES=5 // distance between aisles
+DIS_BETWEEN_DEPOT_FIRST_AISLE=5 // distance between depot and first aisle
+PICKERS_NUM=5 // number of pickers
+TRAVEL_SPEED=48 // travel speed of picker (LU/min)
+EXTRACTION_SPEED=6 // extraction speed (items/min)
+BATCH_SETUP_TIME=3 // setup time before picking (min)
+PICKING_DEVICE_CAPACITY=45 // capacity of picking device (items)
+```
+
+All testcases are stored in apps/orders/src/testcases, when starting the system, testcases are automatically read and processed
+
 ## Running the app
 
 ```bash
-# development
-$ npm run start
+Run batching service:
+$ npm run start:dev batching
+Run order service:
+$ npm run start:dev order
+Run picker service:
+$ npm run start:devg picker
 
-# watch mode
-$ npm run start:dev
+Call GET request to http://localhost:3000/start to start running testcases.
+Results are stored in apps/batching/src/results/results.json
 
-# production mode
-$ npm run start:prod
-```
-
-## Test
-
-```bash
-# unit tests
-$ npm run test
-
-# e2e tests
-$ npm run test:e2e
-
-# test coverage
-$ npm run test:cov
-```
-
-## Support
-
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
-
-## Stay in touch
-
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
-
-## License
-
-Nest is [MIT licensed](LICENSE).
